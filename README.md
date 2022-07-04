@@ -1,3 +1,9 @@
+# ❗️Optimize deprecation
+
+Uniform Optimize has been deprecated and replaced by [Context](https://docs.uniform.app/context), a more powerful and flexible personalization solution. Optimize is not being discontinued at this time, but it will not receive updates or new features.
+
+We do not recommend starting a new project with Optimize. If you have an existing project that uses Optimize, you can upgrade your project to Context at no cost using our [upgrade guide](https://docs.uniform.app/context/migration). If you have any issues with this process you can contact our team.
+
 # Optimize Contentstack Next.js Example Project
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
